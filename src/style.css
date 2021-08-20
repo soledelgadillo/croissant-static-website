@@ -1,0 +1,9 @@
+body {
+  background: rgb(248, 232, 166);
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
+}
